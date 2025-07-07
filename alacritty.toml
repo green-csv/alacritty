@@ -1,13 +1,8 @@
 [general]
 
-import = [
-    "alacritty-theme/themes/everforest_dark.toml"
-]
-
+import = ["alacritty-theme/themes/catppuccin_frappe.toml"]
 
 
 [font]
-normal  = { family = "GeistMono Nerd Font", style = "Regular"} 
+normal = { family = "GeistMono Nerd Font", style = "Regular" }
 size = 11.5
-
-
