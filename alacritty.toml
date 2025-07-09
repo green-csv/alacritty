@@ -1,6 +1,6 @@
 [general]
 
-import = ["alacritty-theme/themes/catppuccin_frappe.toml"]
+import = ["alacritty-theme/themes/argonaut.toml"]
 
 
 [font]
