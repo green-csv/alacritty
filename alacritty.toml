@@ -6,3 +6,8 @@ import = ["alacritty-theme/themes/argonaut.toml"]
 [font]
 normal = { family = "GeistMono Nerd Font", style = "Regular" }
 size = 11.5
+[window]
+dynamic_padding = true
+# decorations = "None"
+# opacity = 0
+blur = true
